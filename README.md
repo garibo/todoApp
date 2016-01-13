@@ -2,6 +2,6 @@
 
 Simple to do list app para almacenar tareas
 
-![image](screenshots/captura1.png)
+![image](screenshots/Captura1.png)
 
-![image](screenshots/captura2.png)
+![image](screenshots/Captura2.png)
