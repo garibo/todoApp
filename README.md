@@ -1,6 +1,6 @@
 # todoApp
 
-Simple to do list app para almacenar tareas
+Simple To-Do  App creada en Swift para el sistema opeativo IOS
 
 ![image](screenshots/Captura1.png)
 
